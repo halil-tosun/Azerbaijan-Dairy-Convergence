@@ -1,0 +1,13 @@
+name: azerbaijan-dairy-convergence-repro
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.12
+  - pandas=3.0.2
+  - numpy=2.4.4
+  - scipy=1.17.1
+  - matplotlib=3.10.8
+  - pip

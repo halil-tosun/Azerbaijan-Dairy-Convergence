@@ -1,0 +1,6 @@
+Variable,Definition,Role
+Milk yield per cow,Milk production divided by dairy cattle stock (kg/head),Primary convergence/distribution-dynamics outcome
+Relative yield,Milk yield per cow divided by contemporaneous national mean,Distribution dynamics (Sec. 4)
+Dairy cattle stock,Number of dairy cattle (head),Extensive-margin input (Sec. 6)
+Fodder-crop sown area,Area allocated to fodder-crop cultivation (ha),Production input (not used in convergence models)
+Milk production,Total annual milk production (tons),Extensive/intensive decomposition (Sec. 6)

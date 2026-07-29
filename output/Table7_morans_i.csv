@@ -1,0 +1,6 @@
+Specification,Variable,Moran's I,p (permutation)
+Queen contiguity (primary),Growth 2000-2024,0.047,0.596
+Queen contiguity (primary),Level 2020-2024 avg,0.109,0.252
+KNN k=6,Growth 2000-2024,0.088,0.155
+KNN k=10,Growth 2000-2024,0.126,0.004
+Distance-band <100km,Growth 2000-2024,0.083,0.037

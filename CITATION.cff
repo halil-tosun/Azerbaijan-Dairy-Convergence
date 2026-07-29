@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "Reproducibility Package: Catching Up Without Closing the Gap -- Convergence and Distribution Dynamics of Regional Dairy Productivity in Azerbaijan"
 message: "If you use this reproducibility package, please cite it using the metadata below."
-type: software
+type: Working paper
 authors:
   - family-names: "Tosun"
     given-names: "Halil"

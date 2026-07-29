@@ -175,8 +175,7 @@ Email: halilibrahimtosun@gmail.com
 
 ## DOI
 
-**Zenodo DOI:** Pending — will be assigned upon archival and added here,
-to `CITATION.cff`, and to `.zenodo.json`.
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.21693849
 
 The manuscript's own DOI (once published) will be added to this file and
 to the citation metadata files at that time.

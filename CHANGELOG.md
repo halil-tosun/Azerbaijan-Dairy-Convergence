@@ -56,7 +56,6 @@ versioning where appropriate.
   manuscript title, or submission outcome.
 
 ### Notes
-Zenodo DOI: pending -- will be assigned upon archival and added to this
-file, to `README.md`, `CITATION.cff`, and `.zenodo.json`.
+Zenodo DOI: https://doi.org/10.5281/zenodo.21693849
 
 The manuscript's own DOI (once published) will be added at that time.

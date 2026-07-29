@@ -1,6 +1,6 @@
 # REPRODUCIBILITY_CHECKLIST
 
-## Study
+## Working paper
 
 **Catching Up Without Closing the Gap: Convergence and Distribution
 Dynamics of Regional Dairy Productivity in Azerbaijan** (unbalanced

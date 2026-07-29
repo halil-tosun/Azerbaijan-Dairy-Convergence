@@ -27,7 +27,7 @@ panel of 66 dairy-producing districts, 2000-2024)
 | Tables reproducible | ✓ (Tables 1-13) |
 | Deterministic bootstrap/permutation (fixed random seed) | ✓ |
 | Open repository planned | ✓ |
-| Zenodo DOI | Pending |
+| Zenodo DOI | https://doi.org/10.5281/zenodo.21693849 |
 | Manuscript DOI | Pending -- will be added once available |
 
 ---

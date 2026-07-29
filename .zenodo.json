@@ -1,0 +1,28 @@
+{
+  "title": "Reproducibility Package: Catching Up Without Closing the Gap -- Convergence and Distribution Dynamics of Regional Dairy Productivity in Azerbaijan",
+  "description": "<p>Complete reproducibility package for a study examining regional productivity convergence and persistence in Azerbaijan's dairy sector. Includes:</p><ul><li>Python source code reproducing all convergence, distribution-dynamics, spatial-econometric, and extensive/intensive-margin analyses, tables, and figures for an unbalanced panel of 66 dairy-producing districts, 2000-2024;</li><li>The raw district-year production panel and the geoBoundaries administrative boundary data used to construct all spatial weight matrices;</li><li>Full documentation (codebook, data description with variable-level provenance, reproducibility checklist, and a step-by-step replication guide).</li></ul><p>The study documents that robust panel beta-convergence in milk yield per cow coexists with rising cross-sectional dispersion (Quah's, 1993, Galton's Fallacy), shows via distribution-dynamics methods (kernel density estimation, Silverman's multimodality test, Markov transition matrices, Shorrocks' mobility index) that this reflects persistent immobility rather than convergence-club formation, uses global Moran's I and a spatial Markov chain to show this persistence is not primarily spatial, and relates it to heterogeneity in the extensive and intensive margins of production growth.</p><p>This package is organized around the study itself rather than any single journal submission, so that it remains valid regardless of the eventual publication venue or manuscript title.</p>",
+  "creators": [
+    {
+      "name": "Tosun, Halil",
+      "affiliation": "Department of Animal Science, School of Agricultural and Food Sciences, ADA University, Baku, Azerbaijan",
+      "orcid": "0000-0001-5117-0390"
+    }
+  ],
+  "keywords": [
+    "productivity convergence",
+    "distribution dynamics",
+    "spatial Markov chain",
+    "transition economies",
+    "dairy sector",
+    "Azerbaijan",
+    "regional analysis",
+    "reproducibility",
+    "open science"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Underlying district-level agricultural statistics originate from the State Statistical Committee of the Republic of Azerbaijan; administrative boundary data from geoBoundaries (Runfola et al., 2020). Full provenance documented in docs/DATA_DESCRIPTION.md. Code and derived/processed data in this repository are released under the MIT License.",
+  "version": "1.0.0"
+}

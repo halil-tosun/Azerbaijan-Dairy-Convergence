@@ -20,7 +20,7 @@
     "open science"
   ],
   "license": "MIT",
-  "upload_type": "software",
+  "upload_type": "Publication / Working paper",
   "access_right": "open",
   "language": "eng",
   "notes": "Underlying district-level agricultural statistics originate from the State Statistical Committee of the Republic of Azerbaijan; administrative boundary data from geoBoundaries (Runfola et al., 2020). Full provenance documented in docs/DATA_DESCRIPTION.md. Code and derived/processed data in this repository are released under the MIT License.",

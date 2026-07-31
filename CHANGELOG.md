@@ -56,6 +56,6 @@ versioning where appropriate.
   manuscript title, or submission outcome.
 
 ### Notes
-Zenodo DOI: https://doi.org/10.5281/zenodo.21693849
+Zenodo DOI: https://doi.org/10.5281/zenodo.21693848
 
 The manuscript's own DOI (once published) will be added at that time.
